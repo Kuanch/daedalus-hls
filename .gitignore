@@ -40,7 +40,13 @@
 # debug information files
 *.dwo
 
-# Compiled binaries
+# Build directory
+build/
+
+# Legacy files (old structure - can be removed)
+main.cpp
+buffer.cpp
+scml.cpp
 main
 buffer
 scml
