@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  systemc-dev:
+    build: .
+    container_name: daedalus-hls-env
+    volumes:
+      - .:/workspace
+    working_dir: /workspace
+    stdin_open: true
+    tty: true
+    command: /bin/bash

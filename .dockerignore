@@ -1,0 +1,18 @@
+# Git files
+.git
+.gitignore
+
+# Compiled binaries
+main
+buffer
+scml
+*.o
+*.out
+*.exe
+
+# Build artifacts
+*.d
+*.obj
+*.so
+*.a
+*.lib

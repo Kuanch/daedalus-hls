@@ -1,4 +1,4 @@
-# Daedalus-HLS
+# Daedalus-systemc
 
 SystemC hardware simulation examples demonstrating various hardware modeling concepts.
 
